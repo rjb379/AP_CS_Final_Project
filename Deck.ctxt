@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=unsortedDeck
+comment0.target=Deck(java.util.ArrayList)
+comment1.params=
+comment1.target=java.util.ArrayList\ getDeck()
+comment2.params=
+comment2.target=java.lang.String\ getTrumpSuit()
+comment3.params=
+comment3.target=int\ getCardsLeft()
+comment4.params=cardsNeeded
+comment4.target=java.util.ArrayList\ replenishCards(int)
+numComments=5

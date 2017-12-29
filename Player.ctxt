@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=initialCards\ trumpSuit
+comment0.target=Player(java.util.ArrayList,\ java.lang.String)
+comment1.params=
+comment1.target=java.util.ArrayList\ getHand()
+comment2.params=
+comment2.target=int\ getCardsLeft()
+comment3.params=
+comment3.target=int\ returnSmallestTrump()
+comment4.params=cardsPlayed\ deckLeft\ weakSuit
+comment4.target=Cards\ offense(java.util.ArrayList,\ int,\ java.lang.String)
+comment5.params=toBeat\ pileSize\ deckSize
+comment5.target=Cards\ defense(Cards,\ int,\ int)
+comment6.params=addCards
+comment6.target=void\ addCards(java.util.ArrayList)
+numComments=7
